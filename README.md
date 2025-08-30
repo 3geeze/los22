@@ -8,7 +8,7 @@ To get started with Android/LineageOS, you'll need to get familiar with [Source 
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u https://github.com/3geeze/los22.git --git-lfs
+repo init -u https://github.com/3geeze/los22.git --git-lfs --no-clone-bundle
 ```
 Then to sync up:
 ```
