@@ -1,0 +1,17 @@
+LineageOS 22.2
+===========
+
+Getting started
+---------------
+
+To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+
+To initialize your local repository using the LineageOS trees, use a command like this:
+```
+repo init -u https://github.com/3geeze/los22.git --git-lfs
+```
+Then to sync up:
+```
+repo sync
+```
+Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
