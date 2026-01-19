@@ -657,7 +657,7 @@
   <project path="hardware/nxp/secure_element" name="platform/hardware/nxp/secure_element" groups="pdk" remote="aosp"  revision="2b4df510a115f69b9480a2c21a572280a3ad74f7" />
   <project path="hardware/nxp/uwb" name="platform/hardware/nxp/uwb" remote="aosp"  revision="24502cccbd239aae6d6e61c5ef75936d091c5d00" />
   <project path="hardware/nxp/weaver" name="platform/hardware/nxp/weaver" groups="pdk" remote="aosp"  revision="c3c19159e53e115a8983d16bf617efbec4f3140f" />
-  <project path="hardware/qcom/wlan" name="LineageOS/android_hardware_qcom_wlan" groups="qcom,qcom_wlan,pdk-qcom"  revision="93b212ac5b9ff8a8327c14effe9ec2a880d32f9c" />
+  <project path="hardware/qcom/wlan" name="LineageOS/android_hardware_qcom_wlan" groups="qcom,qcom_wlan,pdk-qcom"  revision="lineage-22.2" />
   <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk"  revision="a5c16924b680cf9b1754428f028037eace52193f" />
   <project path="hardware/samsung/nfc" name="LineageOS/android_hardware_samsung_nfc" groups="pdk"  revision="61bc89fa5fb6b6c3fa47f99f9aaf6cf7967fc061" />
   <project path="hardware/st/nfc" name="LineageOS/android_hardware_st_nfc" groups="pdk"  revision="a25c5e196fb9a2e776d1eabf8b9090e2a4795e75" />
